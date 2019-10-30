@@ -21,7 +21,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **David "Grievance" Cassidy** - *Initial work* - [GrievanceTV](https://grievance.tv)
+* **Grievance** - *Initial work* - [Grievance](https://github.com/LordGrievance)
 
 ## License
 
