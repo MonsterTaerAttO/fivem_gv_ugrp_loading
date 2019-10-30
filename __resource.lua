@@ -2,16 +2,15 @@ resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
 
 description '[UGRP] Loading'
 
-version '1.0.0'
+version '1.1.0'
 
-loadscreen 'index.html'
+loadscreen 'ui/index.html'
 
 files {
-    'index.html',
-    'css/main.css',
-    'css/normalize.min.css',
-    'img/bg.jpg',
-    'img/logo.png',
-    'js/jquery.slim.min.js',
-    'js/main.js',
+    'ui/index.html',
+    'ui/main.css',
+    'ui/normalize.min.css',
+    'ui/bg.jpg',
+    'ui/logo.png',
+    'ui/main.js',
 }
